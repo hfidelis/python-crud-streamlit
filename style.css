@@ -1,0 +1,42 @@
+.stMarkdown {
+    text-align: center;
+}
+
+#sistema-de-clientes {
+    font-weight: bold;
+}
+
+.css-1q8dd3e {
+    background: transparent;
+    box-sizing: border-box;
+    border-radius: 0.6rem;
+    align-self: center;
+    font-size: 17px;
+    font-weight: 400 bold;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    border: 2px solid aqua;
+    width: 60px;
+    height: 30px;
+    font-size: 15px;
+}
+
+.css-1q8dd3e:hover {
+    color: aqua;
+    box-shadow: 3px 3px 20px #03e9f4,
+    3px 2px 20px #03e9f4;
+    border: 2px solid aqua;
+}
+
+#sistema-de-clientes {
+    background-color: #000;
+    border: 1px solid #dbd56e;
+    color: #fff;
+    border-radius: 12px;
+}
+
+/* #MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
